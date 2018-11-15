@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5bnAK6v9Kmw_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">1.3a GAPP - with quiz</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="1.3a_GAPP_-_with_quiz_ORG">
+    <organization identifier="1.3a_GAPP_-_with_quiz_ORG">
+      <title>1.3a GAPP - with quiz</title>
+      <item identifier="_1.3a_GAPP_SCO" isvisible="true" identifierref="__5bnAK6v9Kmw_course_id_RES">
+        <title>1.3a GAPP - with quiz</title>
+        <adlcp:masteryscore>100</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5bnAK6v9Kmw_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5h6fwlIvlm4_80_P_0_0_450_300_DX900_DY900.swf" />
+      <file href="mobile/5h6fwlIvlm4_80_P_0_0_450_300_DX900_DY900_CX450_CY319.png" />
+      <file href="mobile/5h6fwlIvlm4_80_P_0_0_450_300_DX900_DY900_CX450_CY319.swf" />
+      <file href="story_content/6nOxZEHW2Uh_80_P_0_108_590_223_DX1132_DY1132.swf" />
+      <file href="mobile/6nOxZEHW2Uh_80_P_0_108_590_223_DX1132_DY1132_CX566_CY214.png" />
+      <file href="mobile/6nOxZEHW2Uh_80_P_0_108_590_223_DX1132_DY1132_CX566_CY214.swf" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/fonts.xml" />
+      <file href="mobile/fonts.js" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/frame.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/app_store.png" />
+      <file href="mobile/mobile_icon.png" />
+      <file href="mobile/linen_background.jpg" />
+      <file href="story_unsupported.html" />
+      <file href="mobile/player.css" />
+      <file href="mobile/player_compiled.js" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/67dbNM8Olji.swf" />
+      <file href="story_content/slides/6cuH8M62JGh.swf" />
+      <file href="story_content/slides/5VxYiLdjorb.swf" />
+      <file href="mobile/slides/67dbNM8Olji.gz" />
+      <file href="mobile/slides/5VxYiLdjorb.gz" />
+      <file href="mobile/slides/6cuH8M62JGh.gz" />
+      <file href="story_content/slides/6bC7hHpGgsv.swf" />
+      <file href="mobile/slides/6bC7hHpGgsv.gz" />
+      <file href="story_content/slides/6CoTlKzbW3f.swf" />
+      <file href="mobile/slides/6CoTlKzbW3f.gz" />
+      <file href="story_content/slides/67rP0oSmpwl.swf" />
+      <file href="mobile/slides/67rP0oSmpwl.gz" />
+      <file href="story_content/slides/5tdeayf7Z2K.swf" />
+      <file href="mobile/slides/5tdeayf7Z2K.gz" />
+      <file href="mobile/slides/67rP0oSmpwl.js" />
+      <file href="story_content/slides/6qe18q3owPF.swf" />
+      <file href="mobile/slides/6qe18q3owPF.gz" />
+      <file href="mobile/slides/67dbNM8Olji.js" />
+      <file href="mobile/slides/6cuH8M62JGh.js" />
+      <file href="story_content/slides/5sIVxPHUAHj.swf" />
+      <file href="mobile/slides/5tdeayf7Z2K.js" />
+      <file href="mobile/slides/5VxYiLdjorb.js" />
+      <file href="mobile/slides/5sIVxPHUAHj.gz" />
+      <file href="story_content/slides/5tyjXzddvb2.swf" />
+      <file href="mobile/slides/6qe18q3owPF.js" />
+      <file href="mobile/slides/5tyjXzddvb2.gz" />
+      <file href="story_content/slides/5bHZvwPZna6.swf" />
+      <file href="story_content/slides/6epcNfQWag6.swf" />
+      <file href="mobile/slides/5bHZvwPZna6.gz" />
+      <file href="mobile/slides/6epcNfQWag6.gz" />
+      <file href="story_content/slides/6YNVEfMd4GZ.swf" />
+      <file href="mobile/slides/6YNVEfMd4GZ.gz" />
+      <file href="mobile/slides/5sIVxPHUAHj.js" />
+      <file href="story_content/slides/68FKvAjU4AY.swf" />
+      <file href="mobile/slides/68FKvAjU4AY.gz" />
+      <file href="mobile/slides/6YNVEfMd4GZ.js" />
+      <file href="mobile/slides/5tyjXzddvb2.js" />
+      <file href="story_content/slides/5jQXyahCrYW.swf" />
+      <file href="mobile/slides/5jQXyahCrYW.gz" />
+      <file href="mobile/slides/68FKvAjU4AY.js" />
+      <file href="story_content/slides/6j6RgI4N9r2.swf" />
+      <file href="mobile/slides/6j6RgI4N9r2.gz" />
+      <file href="story_content/slides/6AurXpAwh0I.swf" />
+      <file href="mobile/slides/6AurXpAwh0I.gz" />
+      <file href="mobile/slides/6bC7hHpGgsv.js" />
+      <file href="mobile/slides/6CoTlKzbW3f.js" />
+      <file href="mobile/slides/5bHZvwPZna6.js" />
+      <file href="mobile/slides/6epcNfQWag6.js" />
+      <file href="story_content/slides/6YHkR5UyxnX.swf" />
+      <file href="mobile/slides/6YHkR5UyxnX.gz" />
+      <file href="mobile/slides/5jQXyahCrYW.js" />
+      <file href="mobile/slides/6j6RgI4N9r2.js" />
+      <file href="mobile/slides/6AurXpAwh0I.js" />
+      <file href="story_content/slides/5sy9B1puUlK.swf" />
+      <file href="mobile/slides/5sy9B1puUlK.gz" />
+      <file href="mobile/slides/5sy9B1puUlK.js" />
+      <file href="mobile/slides/6YHkR5UyxnX.js" />
+      <file href="story_content/data.swf" />
+      <file href="mobile/data.gz" />
+      <file href="mobile/data.js" />
+      <file href="mobile/masks.js" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="index_lms_html5.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="amplaunch.html" />
+      <file href="mobile/mobileinstall.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
